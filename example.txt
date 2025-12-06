@@ -1,0 +1,15 @@
+Sample Input:
+"I feel nervous but hopeful about my future."
+
+AI Output:
+Label: POSITIVE
+Confidence: 0.97
+
+---
+
+Sample Input:
+"I am very stressed and nothing seems to work."
+
+AI Output:
+Label: NEGATIVE
+Confidence: 0.98
